@@ -22,6 +22,10 @@ Power BI project: customer &amp; brand perspectives on Saudi National Day promot
 ## ⚠️ ملاحظات منهجية
 - المقارنات العامة بين المستهلكين وأصحاب المشاريع مبنية على نسب داخل كل مجموعة (لتجنّب تحيّز العينات غير المتوازنة).
 - تم تنظيف القيم النصية (توحيد تهجئة المناطق، توحيد أسماء الفئات، فك تشابك “أخرى” إلى فئات عند الاقتضاء).
+---
+
+## 📸 لقطات من التقرير 
+<img width="1331" height="740" alt="image" src="https://github.com/user-attachments/assets/13e35efd-f4fa-4fc0-8407-911cbb6aea20" />
 
 ---
 
