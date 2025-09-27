@@ -30,6 +30,5 @@ Power BI project: customer &amp; brand perspectives on Saudi National Day promot
 - أو فتح ملفات CSV عبر Excel.
 
 ---
-
-## 📸 لقطات من التقرير
-
+## أعداد                    
+نوف الدوسري 
