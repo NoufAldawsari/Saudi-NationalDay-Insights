@@ -14,8 +14,7 @@ Power BI project: customer &amp; brand perspectives on Saudi National Day promot
 
 ## 🔍 ما يحتويه
 - `SaudiNationalDay.DATA.xlsx` — ملف البيانات .
-- `pbix/NationalDay_Dashboard.pbix`.
-- `images/` 
+- `pbix/NationalDay_Dashboard.pbix`. 
 
 ---
 
